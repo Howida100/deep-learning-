@@ -1,0 +1,10 @@
+8 different classification algorithms
+
+Decision tree
+RandomForest - Ensemble method
+XGBoost
+SVM (Support Vector Machine) Classifier
+Nearest Neighbors Classifier
+SGD (Stochastic Gradient Descent) classifier
+Gaussian Naive Bayes
+MLP (Multi-layer Perceptron) Neural network
